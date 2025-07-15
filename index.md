@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Introduction
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
@@ -12,6 +12,8 @@ Teams and friend groups would use ChatApp to stay up to date if it existed.
 > [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
 
 ### Getting Started
+
+![Thumbnail]({{ site.baseurl }}/images/Thumbnail.jpg)
 
 Getting a message sent is quick and easy with ChatApp:
 
