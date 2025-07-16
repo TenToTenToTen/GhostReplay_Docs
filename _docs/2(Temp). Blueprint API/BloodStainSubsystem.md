@@ -1,11 +1,8 @@
 ---
-title: Blueprint API
-category: 2. Features
-order: 2
+title: BloodStainSubsystem
+category: 2. Blueprint API
+order: 1
 ---
-
-# Interaction
-
 
 ### Start Recording
 <img src="../../images/StartRecording.png" width="300" />	
