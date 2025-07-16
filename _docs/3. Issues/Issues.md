@@ -4,12 +4,6 @@ category: 3. Issues
 order: 1
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
-
-To install ChatApp on your device:
-
-1. Open the Google Play Store
-2. Search for ChatApp
-3. Select **Install**
+1. When recording multiple actors, enabling looping causes playback speeds to become inconsistent between actors. (2025-07-17)
 
 ![](//placehold.it/800x600)
