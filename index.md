@@ -2,39 +2,36 @@
 title: Introduction
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+**Ghost Replay Plugin** is a lightweight system that records actor movement and animation, then replays it as a ghost using fully Blueprint-accessible components.  
+Players can trigger replays through interactive actors like blood stains, enabling immersive in-world playback.  
+It captures skeletal poses, component transforms, and material parameters, with optional compression and quantization for storage optimization.  
+Ideal for features like **ghost cars**, **death replays**, or **contextual storytelling** through recorded scenes.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
+### Preview
 
 ![Thumbnail]({{ site.baseurl }}/images/Thumbnail.jpg)
 
-Getting a message sent is quick and easy with ChatApp:
+<iframe width="840" height="480"
+    src="https://www.youtube.com/embed/EuA3C7Tn5IM"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+### Contact Us
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+<a href="https://discord.gg/2nhUu69w" target="_blank" style="margin-right: 20px;">
+  <img src="{{ site.baseurl }}/images/Discord_Logo.png" alt="Discord" width="28" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">&nbsp;Join our Discord</span>
+</a>  
+<br/>
 
-### Features
+<a href="https://www.youtube.com/@Techlab-TTT" target="_blank" style="margin-right: 20px;">
+  <img src="{{ site.baseurl }}/images/Youtube_Logo.png" alt="YouTube" width="28" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">&nbsp;Watch on YouTube</span>
+</a>  
+<br/>
 
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+📧 &nbsp;**Email:** [techlab.ttt@gmail.com](mailto:techlab.ttt@gmail.com)
