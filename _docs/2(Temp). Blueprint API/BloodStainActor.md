@@ -3,7 +3,7 @@ title: BloodStainActor
 category: 2. Blueprint API
 order: 4
 ---
-
+<!-- 
 ### Start Recording
 <img src="../../images/Interact.png" width="300" />	
 
@@ -19,4 +19,4 @@ public FBloodStainPlaybackOptions PlaybackOptions
 
 
 uint8 bAllowMultiplePlayback : 1
-FGuid LastPlaybackKey
+FGuid LastPlaybackKey -->
