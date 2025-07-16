@@ -13,7 +13,7 @@ Ideal for features like **ghost cars**, **death replays**, or **contextual story
 ![Thumbnail]({{ site.baseurl }}/images/Thumbnail.jpg)
 
 <iframe width="840" height="480"
-    src="https://www.youtube.com/embed/EuA3C7Tn5IM"
+    src="https://www.youtube.com/embed/I9T2XsXi36w"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
