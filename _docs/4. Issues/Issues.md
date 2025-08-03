@@ -10,4 +10,4 @@ order: 1
 
 
 
-If an issue occurs, please contact us with a description and logs.
+<!-- If an issue occurs, please contact us with a description and logs. -->
