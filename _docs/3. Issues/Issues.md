@@ -7,3 +7,7 @@ order: 1
 1. When recording multiple actors, enabling looping causes playback speeds to become inconsistent between actors. (2025-07-17)
 
 ![](//placehold.it/800x600)
+
+
+
+If an issue occurs, please contact us with a description and logs.
