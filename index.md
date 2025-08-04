@@ -4,10 +4,13 @@ title: Introduction
 
 ![Thumbnail]({{ site.baseurl }}/images/Thumbnail.jpg)
 
-**Ghost Replay Plugin** is a lightweight system that records actor movement and animation, then replays it as a ghost using fully Blueprint-accessible components.  
-Players can trigger replays through interactive actors like blood stains, enabling immersive in-world playback.  
-It captures skeletal poses, component transforms, and material parameters, with optional compression and quantization for storage optimization.  
-Ideal for features like **ghost cars**, **Death replays like soulslike-bloodstain**, or **contextual storytelling** through recorded scenes.
+**Ghost Replay System** is a lightweight, multiplayer-ready plugin that lets you record and replay actor animation, transforms, and materials — just like **ghost cars** in racing games or **bloodstains** in Soulslikes.
+
+It supports both **Static and Skeletal Meshes**, full pose fidelity (including **IK**, **cloth**, and **groom**), and offers optional **compression and quantization** to keep replay data lightweight — perfect for **multiplayer synchronization** without overloading the network.
+
+Designed for ease of use, it works out of the box with existing projects and includes **Fully-Blueprint** controls for spawning, playback, and customization.
+
+Whether you're building **death replays**, **tutorial ghosts**, or **story moments**, Ghost Replay System makes immersive, in-world playback easy.
 
 ### Trailer Video
 
