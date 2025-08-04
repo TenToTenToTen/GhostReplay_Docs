@@ -6,14 +6,14 @@ title: Introduction
 **Ghost Replay Plugin** is a lightweight system that records actor movement and animation, then replays it as a ghost using fully Blueprint-accessible components.  
 Players can trigger replays through interactive actors like blood stains, enabling immersive in-world playback.  
 It captures skeletal poses, component transforms, and material parameters, with optional compression and quantization for storage optimization.  
-Ideal for features like **ghost cars**, **death replays**, or **contextual storytelling** through recorded scenes.
+Ideal for features like **ghost cars**, **Death replays like soulslike-bloodstain**, or **contextual storytelling** through recorded scenes.
 
 ### Preview
 
 ![Thumbnail]({{ site.baseurl }}/images/Thumbnail.jpg)
 
 <iframe width="840" height="480"
-    src="https://www.youtube.com/embed/qP5htPQhx3E"
+    src="https://www.youtube.com/embed/LHjubAv9SbY"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -30,7 +30,7 @@ Ideal for features like **ghost cars**, **death replays**, or **contextual story
 
 <a href="https://www.youtube.com/@Techlab-TTT" target="_blank" style="margin-right: 20px;">
   <img src="{{ site.baseurl }}/images/Youtube_Logo.png" alt="YouTube" width="28" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">&nbsp;Watch on YouTube</span>
+  <span style="vertical-align: middle;">&nbsp;Watch our Trailer Video</span>
 </a>  
 <br/>
 
