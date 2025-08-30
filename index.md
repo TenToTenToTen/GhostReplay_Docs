@@ -24,7 +24,7 @@ Whether you're building **death replays**, **tutorial ghosts**, or **story momen
 
 ### Contact Us
 
-<a href="https://discord.gg/kkN6dss3Ph" target="_blank" style="margin-right: 20px;">
+<a href="https://discord.gg/Ab2hA5Eb9Q" target="_blank" style="margin-right: 20px;">
   <img src="{{ site.baseurl }}/images/Discord_Logo.png" alt="Discord" width="28" style="vertical-align: middle;">
   <span style="vertical-align: middle;">&nbsp;Join our Discord</span>
 </a>  
